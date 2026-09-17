@@ -1,157 +1,168 @@
-# Hi, I'm Huynh Xuan
+<p align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Huynh Xuan — Software for the Built World" />
+</p>
+<p align="center">
+  <strong>FULL-STACK ENGINEERING · COMPUTATIONAL DESIGN · AEC SOFTWARE</strong>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/huynh-xuan-060b25369/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Xhuynh16">GitHub</a>
+</p>
+<br/>
+`[01] / PROFILE`
+<table>
+<tr>
+<td width="54%" valign="top">
+SOFTWARE FOR THE BUILT WORLD
+I'm Huynh Xuan, a Software Engineer at CUBIC Architects.
+I work at the intersection of software engineering and the architecture / AEC domain, building full-stack applications, backend systems, automation workflows, and developer tools.
+My current focus is:
+`FULL-STACK` · `BACKEND SYSTEMS` · `COMPUTATIONAL DESIGN` · `AEC`
+</td>
+<td width="46%" valign="top">
+```txt
+ROLE       Software Engineer
+DOMAIN     Architecture / AEC
 
-**Software Engineer @ CUBIC Architects**  
-**Full-Stack Engineering · Computational Design · AEC Software**
+PRIMARY    C# / TypeScript
+BACKEND    .NET / NestJS
+FRONTEND   Angular
 
-I build software at the intersection of **software engineering and computational design**, with a focus on reliable backend systems, full-stack applications, workflow automation, and developer tools for architecture and engineering.
-
-My primary stack is **C# / .NET** and **TypeScript**, with experience building applications using **ASP.NET Core, NestJS, Angular, PostgreSQL, Redis, Kafka, RabbitMQ, and Docker**.
-
-I'm currently expanding my systems knowledge through **Go**, with a particular interest in concurrency, backend services, CLI tooling, and distributed systems.
-
+STATUS     BUILDING
+NEXT       Go / Systems
+```
+</td>
+</tr>
+</table>
 ---
-
-## Engineering Focus
-
-- Full-stack product engineering
-- Backend architecture & API design
-- Computational design
-- AEC workflow automation
-- Event-driven systems
-- Data-intensive applications
-- Developer tooling
-- Performance, reliability & maintainability
-
+`[02] / ENGINEERING DIRECTION`
+```text
+DESIGN / AEC
+     │
+     ▼
+   DATA
+     │
+     ▼
+ SOFTWARE
+     │
+     ▼
+AUTOMATION
+     │
+     ▼
+BETTER WORKFLOWS
+```
+I'm interested in how software can improve the way architectural and engineering workflows are modeled, connected, automated, analyzed, and delivered.
+My long-term direction is:
+`SOFTWARE ENGINEERING × COMPUTATIONAL DESIGN × AEC`
+Rather than treating software and design as separate disciplines, I want to build systems at the point where they intersect.
 ---
-
-## Tech Stack
-
-### Languages
-
-`C#` · `TypeScript` · `SQL`
-
-Currently learning:
-
-`Go`
-
-### Backend
-
-`.NET` · `ASP.NET Core` · `NestJS`
-
-### Frontend
-
-`Angular`
-
-### Data
-
-`PostgreSQL` · `Redis`
-
-### Messaging
-
-`Kafka` · `RabbitMQ`
-
-### Infrastructure & Tooling
-
-`Docker` · `Git` · `GitHub`
-
+`[03] / STACK`
+Area	Technologies
+Languages	`C#` `TypeScript` `SQL`
+Backend	`.NET` `ASP.NET Core` `NestJS`
+Frontend	`Angular`
+Data	`PostgreSQL` `Redis`
+Messaging	`Kafka` `RabbitMQ`
+Infra / Tools	`Docker` `Git` `GitHub`
 ---
-
-## Computational Design
-
-I'm interested in exploring how software can improve the way architectural and engineering workflows are:
-
-- modeled
-- automated
-- connected
-- analyzed
-- delivered
-
-My long-term goal is to develop deeper expertise at the intersection of:
-
-**Software Engineering × Computational Design × AEC Technology**
-
-I want to build tools and systems that solve real design and engineering problems rather than treating software and design as separate disciplines.
-
----
-
-## Currently Exploring
-
-### Go & Systems Engineering
-
+`[04] / CURRENTLY EXPLORING`
+<table>
+<tr>
+<td width="50%" valign="top">
+GO / SYSTEMS
 I'm learning Go to deepen my understanding of:
-
-- concurrency
-- backend services
-- networking
-- CLI applications
-- distributed-system fundamentals
-- performance-oriented software
-
-### Computational Design
-
-I'm also exploring technologies and concepts around:
-
-- geometry processing
-- parametric workflows
-- BIM / CAD automation
-- design-data pipelines
-- interoperability between design tools and software systems
-
+concurrency
+backend services
+networking fundamentals
+CLI & developer tooling
+distributed systems
+performance-oriented software
+```go
+go build ./...
+```
+</td>
+<td width="50%" valign="top">
+COMPUTATIONAL DESIGN
+I'm exploring concepts around:
+geometry processing
+parametric workflows
+BIM / CAD automation
+design-data pipelines
+interoperability
+AEC developer tooling
+```txt
+GEOMETRY → DATA → SOFTWARE
+```
+</td>
+</tr>
+</table>
 ---
-
-## Selected Engineering Work
-
-I'm currently building a new generation of side projects designed to demonstrate more than just application features.
-
-Each project will focus on engineering concerns such as:
-
-- system architecture
-- design decisions & trade-offs
-- automated testing
-- CI/CD
-- observability
-- performance
-- reliability
-- documentation
-- maintainability
-
-### Upcoming
-
-**Full-Stack / Backend System**  
-A production-oriented application demonstrating backend architecture, data consistency, caching, messaging, testing, and observability.
-
-**Computational Design Project**  
-A software project connecting programming, geometry, automation, and AEC workflows.
-
-**Go Developer Tool**  
-A systems-oriented CLI or developer tool focused on practical engineering problems.
-
-> Projects will be added here as they reach a quality level I'm comfortable showcasing.
-
+`[05] / SELECTED ENGINEERING WORK`
+> **STATUS / PORTFOLIO REBUILD IN PROGRESS**
+I'm rebuilding my public engineering portfolio around projects that demonstrate more than feature delivery.
+Each flagship project will aim to show:
+`ARCHITECTURE` · `DESIGN DECISIONS` · `TESTING` · `PERFORMANCE`  
+`OBSERVABILITY` · `RELIABILITY` · `DOCUMENTATION` · `MAINTAINABILITY`
+`01 / FULL-STACK SYSTEM`
+Production-oriented application architecture
+Planned focus:
+API and domain design
+data consistency
+caching
+asynchronous messaging
+automated testing
+containerized development
+observability
+`STATUS: PLANNED`
 ---
-
-## Engineering Principles
-
-I care about software that is:
-
-**Understandable** — architecture and intent should be clear.
-
-**Reliable** — failures should be expected and handled deliberately.
-
-**Measurable** — performance decisions should be backed by evidence.
-
-**Maintainable** — code should be designed for change, not just completion.
-
-**Useful** — technology should solve an actual problem.
-
+`02 / COMPUTATIONAL DESIGN`
+Software connecting programming, geometry, and AEC workflows
+Planned focus:
+geometry / model data
+automation
+workflow interoperability
+measurable design operations
+practical AEC use cases
+`STATUS: PLANNED`
 ---
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/huynh-xuan-060b25369/)
-
+`03 / GO DEVELOPER TOOL`
+A small systems-oriented tool built around a real engineering problem
+Planned focus:
+CLI design
+concurrency
+filesystem / networking
+testing
+releases
+performance measurement
+`STATUS: PLANNED`
 ---
-
+`[06] / ENGINEERING PRINCIPLES`
+`01 / CLEAR`	`02 / RELIABLE`	`03 / MEASURABLE`	`04 / USEFUL`
+Architecture should communicate intent.	Failures should be expected and handled deliberately.	Performance decisions should be backed by evidence.	Technology should solve an actual problem.
+---
+`[07] / WHAT I'M BUILDING TOWARD`
+```txt
+FULL-STACK PRODUCT ENGINEERING
+            +
+      BACKEND SYSTEMS
+            +
+   COMPUTATIONAL DESIGN
+            +
+        AEC DOMAIN
+            ↓
+SOFTWARE FOR THE BUILT WORLD
+```
+The goal is not to collect technologies.
+The goal is to develop the engineering depth to build reliable software, useful tools, and better technical workflows for the built environment.
+---
+<div align="center">
+CONNECT
+LinkedIn
+  · 
+GitHub
+<br/>
 <sub>
-Currently working toward stronger expertise in full-stack systems, backend engineering, computational design, and AEC software.
+FULL-STACK ENGINEERING / COMPUTATIONAL DESIGN / AEC SOFTWARE
 </sub>
+</div>
