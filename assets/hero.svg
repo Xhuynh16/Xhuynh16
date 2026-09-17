@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Huynh Xuan — Software for the Built World</title>
+  <desc id="desc">Architectural grid with profile focus, name, role, and engineering disciplines.</desc>
+
+  <defs>
+    <pattern id="minor-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#242424" stroke-width="1"/>
+    </pattern>
+    <pattern id="major-grid" width="120" height="120" patternUnits="userSpaceOnUse">
+      <rect width="120" height="120" fill="url(#minor-grid)"/>
+      <path d="M 120 0 L 0 0 0 120" fill="none" stroke="#383838" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+      .label { fill: #a4a4a4; font-size: 13px; letter-spacing: 2.4px; }
+      .annotation { fill: #777777; font-size: 11px; letter-spacing: 1.5px; }
+      .rule { stroke: #e5e5e5; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" fill="#0b0b0b"/>
+  <rect width="1200" height="420" fill="url(#major-grid)" opacity="0.58"/>
+
+  <path d="M48 48h26M48 48v26M1152 48h-26M1152 48v26M48 372h26M48 372v-26M1152 372h-26M1152 372v-26" fill="none" stroke="#e5e5e5" stroke-width="1"/>
+
+  <g class="mono">
+    <text x="72" y="86" class="label">FOCUS / 01</text>
+    <text x="72" y="120" fill="#f1f1f1" font-size="18" letter-spacing="2.2">SOFTWARE FOR THE BUILT WORLD</text>
+
+    <line x1="72" y1="154" x2="1128" y2="154" class="rule"/>
+    <rect x="72" y="151" width="84" height="6" fill="#d74236"/>
+
+    <text x="72" y="236" fill="#ffffff" font-size="66" font-weight="700" letter-spacing="1.5">HUYNH XUAN</text>
+    <text x="76" y="278" fill="#d74236" font-size="18" font-weight="700" letter-spacing="3.6">SOFTWARE ENGINEER</text>
+
+    <line x1="72" y1="314" x2="1128" y2="314" class="rule" opacity="0.45"/>
+    <text x="72" y="349" fill="#d8d8d8" font-size="15" letter-spacing="2.1">FULL-STACK / COMPUTATIONAL DESIGN / AEC SOFTWARE</text>
+
+    <text x="1040" y="86" class="annotation">12.00 / 04.20</text>
+    <text x="1043" y="349" class="annotation">PROFILE / 01</text>
+    <text x="1043" y="372" class="annotation">BUILD / 2026</text>
+  </g>
+
+  <circle cx="1128" cy="154" r="4" fill="#d74236"/>
+  <circle cx="72" cy="314" r="3" fill="#d74236"/>
+</svg>
