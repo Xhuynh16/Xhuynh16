@@ -50,7 +50,7 @@ EXPLORE     Go · concurrency · developer tooling
 
 ```text
 FULL-STACK SYSTEMS          ████████████  ACTIVE
-COMPUTATIONAL DESIGN        ████████████  ACTIVE
+COMPUTATIONAL DESIGN        ██████░░░░░░  LEARNING
 GO / SYSTEMS                ██████░░░░░░  LEARNING
 ```
 
